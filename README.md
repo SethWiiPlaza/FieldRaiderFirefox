@@ -8,11 +8,11 @@ Have you ever encountered annoying field restrictions on websites? With my scrip
 
 ## Installation Steps
 
-1. Download the JavaScript file from [here]([https://github.com/SethWiiPlaza/FieldRaiderFirefox](https://github.com/SethWiiPlaza/FieldRaiderFirefox/blob/main/FieldRaiderFirefox%20v1.72%20%5BSeth%40WiiPlaza%5D.js)).
+1. Download the JavaScript file from [here](https://github.com/SethWiiPlaza/FieldRaiderFirefox/blob/main/FieldRaiderFirefox%20v1.72%20%5BSeth%40WiiPlaza%5D.js).
 2. Go to TamperMonkey settings.
 3. Navigate to Utilities.
 4. Click on "Import from file."
 5. Browse and select the downloaded JavaScript file: *FieldRaiderFirefox.v1.72.Seth@WiiPlaza.js*.
 6. Confirm the import.
    
-[Explore FieldRaiderFirefox on GitHub]([https://github.com/SethWiiPlaza/FieldRaiderFirefox](https://github.com/SethWiiPlaza/FieldRaiderFirefox/blob/main/FieldRaiderFirefox%20v1.72%20%5BSeth%40WiiPlaza%5D.js)https://github.com/SethWiiPlaza/FieldRaiderFirefox/blob/main/FieldRaiderFirefox%20v1.72%20%5BSeth%40WiiPlaza%5D.js)
+[Explore FieldRaiderFirefox on GitHub](https://github.com/SethWiiPlaza/FieldRaiderFirefox/blob/main/FieldRaiderFirefox%20v1.72%20%5BSeth%40WiiPlaza%5D.js)
