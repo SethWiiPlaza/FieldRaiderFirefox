@@ -1,6 +1,6 @@
 # Field Raider Firefox v1.72 by Seth@WiiPlaza
 
-![Field Raider Firefox](https://camo.githubusercontent.com/4b1d09a3f6b75e24ef34aec74b993645fed41315319e63827db17d2b31ec7e4f68747470733a2f2f7468756d6273322e696d67626f782e636f6d2f64642f36362f3679525071686e6c5f742e706e67)
+![Field Raider Firefox](https://thumbs2.imgbox.com/41/e5/3SAb0CZL_t.png)
 
 ## Introduction
 
