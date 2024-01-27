@@ -1,4 +1,4 @@
-# Field Raider Firefox v1.72 by Seth@WiiPlaza
+# Field Raider Firefox v1.73 by Seth@WiiPlaza
 
 ![Field Raider Firefox](https://thumbs2.imgbox.com/85/bf/DqHhVmtT_t.png)
 
