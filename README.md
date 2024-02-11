@@ -1,10 +1,10 @@
-# Field Raider Firefox v1.74 by Seth@WiiPlaza
+# Field Raider Firefox v1.77 by Seth@WiiPlaza
 
 ![Field Raider Firefox](https://thumbs2.imgbox.com/85/bf/DqHhVmtT_t.png)
 
 ## Introduction
 
-Have you ever encountered annoying field restrictions on websites? With my script, you can effortlessly bypass them by pasting data from the clipboard using the force paste hotkey: **Ctrl + Alt + V**.
+Have you ever encountered annoying field restrictions on websites? With my script, you can effortlessly bypass them by pasting data from the clipboard using the force paste hotkey: **Ctrl + V**.
 
 ## Installation Steps
 
